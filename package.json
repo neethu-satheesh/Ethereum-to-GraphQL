@@ -29,8 +29,8 @@
   "homepage": "https://github.com/hellosugoi/Ethereum-to-GraphQL#readme",
   "dependencies": {
     "bignumber.js": "^7.2.1",
-    "graphql": "^0.10.0",
-    "web3": "^1.0.0-beta.35"
+    "graphql": "^15.8.0",
+    "web3": "^1.7.0"
   },
   "devDependencies": {
     "babel-preset-es2016": "^6.24.1",
